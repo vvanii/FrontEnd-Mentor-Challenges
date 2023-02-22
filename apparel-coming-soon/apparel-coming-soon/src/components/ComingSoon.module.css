@@ -1,0 +1,18 @@
+.root {
+  padding-left: 12rem;
+}
+
+.heroImg {
+  /* padding-top: 40px; */
+  float: right;
+  /* display: flex; */
+  height: 100vh;
+}
+.logo {
+  padding-top: 80px;
+}
+
+h1 {
+  float: left;
+  color: black;
+}
